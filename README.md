@@ -7,7 +7,8 @@
   
 ## **2.  What did you do particularly well in developing this documentation?**
   
-    I feel that I was able to understand the requirements pretty well, and translate those into a pretty good technical design.  Leveraging previous experience with various server platforms I feel assisted greatly in this project.
+    I feel that I was able to understand the requirements pretty well, and translate those into a pretty good technical design.
+    Leveraging previous experience with various server platforms I feel assisted greatly in this project.
     
 ##  **3.  What about the process of working through a design document did you find helpful when developing the code?**
 
